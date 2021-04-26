@@ -1,4 +1,7 @@
 # World_Weather_Analysis
+
+![map](map.png)
+
 This project takes random latitude-longitude pairs and used them to offer the user a selection of cities and hotels therein based on daily high temperatures. 
 
 ## Weather_Database
